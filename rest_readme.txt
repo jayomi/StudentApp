@@ -1,4 +1,4 @@
-request urls: 
+rest client request urls for calling backend services: 
 
 GEt:
 http://localhost:8080/StudentApp/rest/student/getAllStudents
